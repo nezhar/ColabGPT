@@ -8,7 +8,7 @@ A simple set of notebooks to demonstrate the use of LLMs (Large Language Models)
 
 ## Demo
 
-![Demo](demo.mkv)
+https://github.com/user-attachments/assets/37448f4c-e459-46fa-81b6-c5370d46fb6f
 
 ## How to use
 
